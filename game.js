@@ -10,7 +10,7 @@
   const TWO_PI = Math.PI * 2;
   const BEST_KEY = "airtimeKiteBestV1";
   const REPAIR_URL = "https://www.airtimekite.com/";
-  const VERSION = "2026.08.20.5";
+  const VERSION = "2026.08.25.1";
   const versionEl = document.getElementById("version");
   if (versionEl) versionEl.textContent = VERSION;
   const repairLink = document.getElementById("repair-link");
